@@ -10,3 +10,4 @@ matn = file.readlines()
 
 for i in matnlar:
     print(i)
+print("Salom dunyo")
